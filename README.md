@@ -1,5 +1,5 @@
 ## Hi, I'm jehad suliman 👋
-<img src="https://i.pinimg.com/564x/6c/5b/0c/6c5b0c28c39753acf162afe17aef6555.jpg"/>
+<img src="https://i.pinimg.com/736x/45/99/32/459932b5f4724cd15843fae94d214f5b.jpg"/>
 
 ## 🌱About Me 
 
