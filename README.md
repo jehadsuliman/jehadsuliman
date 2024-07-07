@@ -1,13 +1,31 @@
 ## Hi, I'm jehad suliman 👋
-<img src="https://cdn.gencraft.com/prod/user/73321e40-1b55-4339-8c1b-19bcb233acaa/88f2bfdf-10f1-4772-b7eb-6eb0b77cc4f1/image/image1_0.jpg?Expires=1728138835&Signature=FEQbC951Vw4DAjhb99VIwo3zIFMDrv91b6L5vqAujmM2554~962l7~cvxh9xH5wTUFbisO7UlaA9~RUfrBeJC0X0j4W54z43QKESZoTIOeXFOzdN5DiZgJg1OPUzEM3yuL8zJ54bKcFx4gpQ~A2KPZ6uViP8u~DkZk4Q-XjVzhwCBqqLGRMrV3QO9nTzGwvuGkrQ3olpMaXKJaZ4x9Rdze5sOEEm6L4thDnSBqNXD5~syjbw7sWqqK4ZsFSzautapqCMLm3c9tc5BmwDwniRAFX-7nQEI-V8Q6v~HRG1vI7RGpQ4pZMVO-HSO2PcJssj0~c7n-dt8OeZjShD4Z9h8w__&Key-Pair-Id=K3RDDB1TZ8BHT8"/>
-Here are some ideas to get you started:
+<img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/75373379-4b09-4b07-8018-242b0d6f1a01/DallEGeneratedImages/dalle-c66e4c8a-2959-4e97-a004-0cdc3326c3fb0251681937469883403200.jpg&dcHint=IndiaCentral&fileToken=20ae7dc0-ca7d-4ca9-a3c3-a5d87f50ef1a"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me 🌱
 
+- 📒 I’m currently learning full-stack development.
+- 🌞 I enjoy solving problems.
+- 💾 I like to work on databases.
+
+## Programming Language 📚
+
+- Javascript 
+- HTML
+- Css
+- React js
+- Node js
+- Express js
+
+## Previously worked with:
+
+- [MongoDb](https://www.mongodb.com/)
+- [postgreSQL](https://www.postgresql.org/)
+- [Postman](https://www.postman.com/)
+- [visual studio code](https://code.visualstudio.com/)
+
+## Connect with me
+
+- [Fasebook](https://www.facebook.com/jehadmmm/)
+- [Instagram](https://www.instagram.com/jehad_.suliman/)
+- [LinkedIn](https://www.linkedin.com/in/jehadsuliman/)
+- [Github](https://github.com/jehadsuliman)
