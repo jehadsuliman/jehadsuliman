@@ -1,32 +1,49 @@
 ## Hi, I'm jehad suliman 👋
-<img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/75373379-4b09-4b07-8018-242b0d6f1a01/DallEGeneratedImages/dalle-c66e4c8a-2959-4e97-a004-0cdc3326c3fb0251681937469883403200.jpg&dcHint=IndiaCentral&fileToken=20ae7dc0-ca7d-4ca9-a3c3-a5d87f50ef1a"/>
+<img src="https://i.pinimg.com/564x/6c/5b/0c/6c5b0c28c39753acf162afe17aef6555.jpg"/>
 
 ## 🌱About Me 
 
-- 📒 I’m currently learning full-stack development.
-- 🌞 I enjoy solving problems.
-- 💾 I like to work on databases.
+- 🌐 I'm Jehad Suliman, a passionate full-stack developer currently honing my skills.
+- 🛠 I enjoy solving complex problems and turning ideas into reality through code.
+- 💾 Databases are my thing - I love working with both SQL and NoSQL databases.
+- 📚 Always eager to learn and explore new technologies.
 
-## 📚 Programming Language 
+## 📚 Programming Languages and Technologies
 
-- Javascript 
-- HTML
-- Css
-- React js
-- Node js
-- Express js
+| Rank | Languages and Technologies |
+|-----:|----------------------------|
+|     1| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+|     2| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+|     3| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+|     4| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+|     5| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+|     6| ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+
+
+## 🔧 Tools and Platforms
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+
+
 
 ## 👷 Previously worked with: 
 
-- [MongoDb](https://www.mongodb.com/)
-- [postgreSQL](https://www.postgresql.org/)
-- [Postman](https://www.postman.com/)
-- [visual studio code](https://code.visualstudio.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📞 Connect with me
 
-- [Fasebook](https://www.facebook.com/jehadmmm/)
-- [Instagram](https://www.instagram.com/jehad_.suliman/)
-- [LinkedIn](https://www.linkedin.com/in/jehadsuliman/)
-- [Github](https://github.com/jehadsuliman)
-- [Gmail](jehad.msuliman@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jehadmmm/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jehad_.suliman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehadsuliman/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jehadsuliman)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jehad.msuliman@gmail.com)
+
+
